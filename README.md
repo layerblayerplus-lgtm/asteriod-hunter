@@ -8,8 +8,8 @@
 -
 - 
 - you have to shoot down asteriods
-- while maintaining sufficent power
-- and making new materials/substances
+- maintain sufficent power
+- make new materials/substances
 - ### SPOILERS BELOW
 -
 -
