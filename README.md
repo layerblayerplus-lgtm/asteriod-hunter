@@ -1,6 +1,7 @@
 # asteriod-hunter
 - a game where you shoot down asteriods and use the materials to build things
-- <img width="274" height="547" alt="image" src="https://github.com/user-attachments/assets/34b2e386-aa3b-4255-8f23-27bc3d15c9d8" />
+<img width="276" height="549" alt="image" src="https://github.com/user-attachments/assets/f4c28a96-d7b9-4c21-b5fe-bdc4402174d6" />
+
 
 
 - https://microstudio.io/layerbylayer/astreroidhunter3/YD5AWCT2/
