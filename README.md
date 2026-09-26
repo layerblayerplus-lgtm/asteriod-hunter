@@ -3,9 +3,8 @@
 <img width="276" height="549" alt="image" src="https://github.com/user-attachments/assets/f4c28a96-d7b9-4c21-b5fe-bdc4402174d6" />
 
 
-
+- here is the game demo link
 - https://microstudio.io/layerbylayer/astreroidhunter3/YD5AWCT2/
-to start the game double click the index file in asteriodhunter3.zip
 -
 - ### SPOILERS BELOW
 -
