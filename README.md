@@ -1,6 +1,7 @@
 # asteriod-hunter
-- (worked on GitHub repo)
-a game where you shoot down asteriods and use the materials to build things
+- a game where you shoot down asteriods and use the materials to build things
+
+- https://microstudio.io/layerbylayer/astreroidhunter3/YD5AWCT2/
 to start the game double click the index file in asteriodhunter3.zip
 -
 - ### SPOILERS BELOW
@@ -11,9 +12,9 @@ to start the game double click the index file in asteriodhunter3.zip
 -
 -
 -
+- 
 -
--
--
+- ### all game info
 -
 -
 -
