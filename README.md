@@ -83,3 +83,5 @@
 - laser charging sound from megalaserbeem
 - bubbling sound from electrolysis
 
+- ### the code for the game is in the code branch to run localy I recomend dowloading the zip file and the clicking the index file
+
