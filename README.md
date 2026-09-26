@@ -5,7 +5,9 @@
 
 - here is the game demo link
 - https://microstudio.io/layerbylayer/astreroidhunter3/YD5AWCT2/
--
+- you have to shoot down asteriods
+- while maintaining sufficent power
+- and making new materials/substances
 - ### SPOILERS BELOW
 -
 -
@@ -35,7 +37,7 @@
 -
 -
 -
-### Here all the upgrades in the game
+### Here are all the upgrades in the game
 - upgrade - use 
 - solar panel - generates power
 - coppertube - cools the laser turret to allow faster fire rate
@@ -51,7 +53,7 @@
 - methane pipe - allows methane to flow from sabatier reactor to methane tank
 - methane tank - stores methane
 
-- ### here all asteriod types
+- ### here are all asteriod types
 - type - materials- rarity
 - carbonaceous asteriod - water and carbon - very common
 - stoney asteriod - iron and silicon - uncommon
