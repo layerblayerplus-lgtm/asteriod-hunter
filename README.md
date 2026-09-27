@@ -10,6 +10,7 @@
 - you have to shoot down asteriods
 - maintain sufficent power
 - make new materials/substances
+- who knows what you will discover along the way
 - ### SPOILERS BELOW
 -
 -
@@ -71,7 +72,7 @@
 - up arrow or W key -speed up laserbeems (only if you have the upgrade)
 - down arrow or S key - activate mega laser beem
 - mouse clicks - for pressing buttons or buying upgrades
-
+-
 - ### sounds
 - laserbeem shot
 - megalaserbeem shot
@@ -82,5 +83,8 @@
 - sabatier reactor sound
 - laser charging sound from megalaserbeem
 - bubbling sound from electrolysis
+-  
+- ### how to download locally
+- To dowload locally you can download all files and then click index.html or just download the zip file as there are more then 200 files in the game
 
 
