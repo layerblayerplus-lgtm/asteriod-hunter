@@ -92,5 +92,5 @@
 - ### how to download locally
 - To dowload locally you can download all files and then click index.html or just download the zip file as there are more then 200 files in the game
 
-- ### credits to the game engine I used
-- microstudio 
+- ### credits
+- I used microstudio as a game engine 
