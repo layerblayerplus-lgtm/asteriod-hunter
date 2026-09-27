@@ -6,7 +6,11 @@
 - ## here is the game demo link
 - https://microstudio.io/layerbylayer/astreroidhunter3/YD5AWCT2/
 -
-- 
+- ## how to start game
+- click the tutorial button in top right corner
+- follow the tutorial
+- after you figure out the rules press the start button in the middle to start playing
+- -
 -  ### Basic overview of game
 - you have to shoot down asteriods
 - maintain sufficent power
@@ -88,4 +92,5 @@
 - ### how to download locally
 - To dowload locally you can download all files and then click index.html or just download the zip file as there are more then 200 files in the game
 
-
+- ### credits to the game engine I used
+- microstudio 
