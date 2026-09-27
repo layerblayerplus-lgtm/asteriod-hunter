@@ -7,6 +7,7 @@
 - https://microstudio.io/layerbylayer/astreroidhunter3/YD5AWCT2/
 -
 - 
+-  ### Basic overview of game
 - you have to shoot down asteriods
 - maintain sufficent power
 - make new materials/substances
